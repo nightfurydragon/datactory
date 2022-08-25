@@ -1,0 +1,9 @@
+{
+	"name": "DatafactoryFirstHalfScenario",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d29fb68-dd30-40af-94fd-3a6e11e3fad1",
+		"tenantId": "ba3ea352-c3c7-4973-8124-dc63d6214728"
+	}
+}
